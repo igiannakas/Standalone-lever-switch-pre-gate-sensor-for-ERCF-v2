@@ -35,7 +35,7 @@ Per sensor:
 | **Item**                            | **Quantity**         | **Sourcing**                                                                                               |
 |-------------------------------------|----------------------|------------------------------------------------------------------------------------------------------------|
 | Omron D2F-L3-D3 switch              | 1 per sensor         | [Digikey](https://www.digikey.co.uk/en/products/detail/omron-electronics-inc-emc-div/D2F-L3-D3/6071977) / [Mouser](https://www.mouser.co.uk/ProductDetail/Omron-Electronics/D2F-L3-D3?qs=i1w9Bv2NFd0l%252B7zEPgxolg%3D%3D) / [Farnell](https://uk.farnell.com/omron/d2f-l3-d3/microswitch-spdt-3a-125vac-80gf/dp/3460475) |
-| M2x6 or 8mm Self-Tapping screws     | 2 per sensor         | Amazon, Aliexpress, included in the ERCF kit                                                                                   |
+| M2x8 or 10mm Self-Tapping screws     | 2 per sensor         | Amazon, Aliexpress, included in the ERCF kit                                                                                   |
 | Ziptie                              | 1 per sensor         | Amazon, Aliexpress                                                                                 |
 | 22AWG silicone cable                | As needed            | Amazon, Aliexpress, included in the ERCF kit                                                                                |
 | Heatshrink tubing (optional)        | As needed            | Amazon, Aliexpress, Hardware stores                                                                                |
