@@ -57,6 +57,10 @@ If you're using this as a stand alone filament sensor install it flipped so the 
 ![IMG_4765](https://github.com/user-attachments/assets/bf8ff659-4ab3-4ba1-bb87-c28252ebd128)
 ![IMG_4770](https://github.com/user-attachments/assets/ad9b905e-0ab4-4336-8e66-c246596be65c)
 
+![502AF646-3B4F-4D2F-81B6-B56E5B0AB566_1_102_o](https://github.com/user-attachments/assets/fc8c2e8b-53ad-4bfa-bb34-fef696b6d217)
+![889AD4DE-F1AE-450A-B6C5-B9E7B6EC62DB_1_102_o](https://github.com/user-attachments/assets/1fa8515e-b582-44ba-96a2-80852d594469)
+![IMG_4815](https://github.com/user-attachments/assets/1639d38e-35f0-40f7-8c36-c5ee37df2111)
+
 
 **Please note the sensor is directional. The arrows must point towards the MMU / printer.** 
 
