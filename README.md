@@ -7,6 +7,11 @@ This sensor can be used both for the ERCF/Tradrack MMUs using Happy Hare, as wel
 ## Design Inspiration
 This design was inspired by and based on the CAD work done by [Juliusjj25](https://github.com/juliusjj25/ERCF-Pregate-Sensors). The filament path has been optimized for reduced friction and improved reliability with the endless spool in Happy Hare. Additionally, the design has been amended to allow for printing without supports.
 
+## Printables
+The design can also be found on Printables. If you like the design consider downloading it from there and leave a review :) 
+https://www.printables.com/model/1053284-standalone-filament-sensor-happy-hare-ercf-tradrac
+
+
 ## Benefits of Using with Happy Hare and ERCF/Tradrack
 
 1. **Improved Endless Spool Reliability**: The sensor is designed to be placed at a distance from the MMU gates. This helps improve endless spool reliability by reducing the likelihood that the filament travels past the MMU gate before Klipper pauses the print.
